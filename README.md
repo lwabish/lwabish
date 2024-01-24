@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Bowen Wu(@lwabish)</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lwabish&label=Profile%20views&color=0e75b6&style=flat" alt="lwabish" /> </p>
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.leetcode.com/lwabish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lwabish" height="30" width="40" /></a>
+<a href="/https://blog.wubw.fun/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://blog.wubw.fun/feed/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
