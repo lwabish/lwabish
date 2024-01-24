@@ -3,6 +3,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [一次使用GPT画时序图的过程记录](https://blog.wubw.fun/2024/01/ai-based-sequence-diagram-generating.html)
+- [AIGC优秀案例：生成问卷内容](https://blog.wubw.fun/2023/12/ai-generated-content-of-esurvey-for-colleagues.html)
+- [播客摘要-知行小酒馆-杨天楠专辑](https://blog.wubw.fun/2023/11/podcast-digest-zxxjg-ytn.html)
+- [stable diffusion webui 部署](https://blog.wubw.fun/2023/11/stable-diffusion-webui-deploy.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
