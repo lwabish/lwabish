@@ -3,10 +3,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [一次使用GPT画时序图的过程记录](https://blog.wubw.fun/2024/01/ai-based-sequence-diagram-generating.html)
-- [kubelet在多NUMA下的性能问题排查](https://blog.wubw.fun/2024/01/kubelet-8-numa-performance-issue.html)
-- [一次跨平台交叉构建docker镜像问题的排查记录](https://blog.wubw.fun/2023/12/intel-mac-cross-build-arm-image-debug.html)
-- [一次使用hosts访问公有云服务时奇怪问题的排查记录](https://blog.wubw.fun/2023/12/an-precaution-of-accessing-cloud-by-hosts.html)
+- [使用SadTalker制作和语音匹配的说话视频](https://blog.wubw.fun/2024/01/sadTalker.html)
+- [基于traefik的TCP-SNI路由和自动SSL证书.md](https://blog.wubw.fun/2024/01/traefik-sni-route-auto-ssl.html)
+- [基于argocd和helm的云原生gitops-2](https://blog.wubw.fun/2024/01/cloudnative-gitops-with-argocd-and-helm-2.html)
+- [使用GPT画时序图](https://blog.wubw.fun/2024/01/ai-based-sequence-diagram-generating.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
