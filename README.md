@@ -4,9 +4,9 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [一次使用GPT画时序图的过程记录](https://blog.wubw.fun/2024/01/ai-based-sequence-diagram-generating.html)
-- [AIGC优秀案例：生成问卷内容](https://blog.wubw.fun/2023/12/ai-generated-content-of-esurvey-for-colleagues.html)
-- [基于n2n的内网打通](https://blog.wubw.fun/2023/11/penetrate-with-n2n.html)
-- [播客摘要-知行小酒馆-杨天楠专辑](https://blog.wubw.fun/2023/11/podcast-digest-zxxjg-ytn.html)
+- [kubelet在多NUMA下的性能问题排查](https://blog.wubw.fun/2024/01/kubelet-8-numa-performance-issue.html)
+- [一次跨平台交叉构建docker镜像问题的排查记录](https://blog.wubw.fun/2023/12/intel-mac-cross-build-arm-image-debug.html)
+- [一次使用hosts访问公有云服务时奇怪问题的排查记录](https://blog.wubw.fun/2023/12/an-precaution-of-accessing-cloud-by-hosts.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
