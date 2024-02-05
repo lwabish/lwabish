@@ -3,10 +3,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [开源贡献：为metallb实现layer2模式下状态展示功能](https://blog.wubw.fun/2024/02/metallb-layer2-status-implement.html)
 - [使用SadTalker制作和语音匹配的说话视频](https://blog.wubw.fun/2024/01/sadTalker.html)
 - [基于traefik的TCP-SNI路由和自动SSL证书.md](https://blog.wubw.fun/2024/01/traefik-sni-route-auto-ssl.html)
 - [基于argocd和helm的云原生gitops-2](https://blog.wubw.fun/2024/01/cloudnative-gitops-with-argocd-and-helm-2.html)
-- [使用GPT画时序图](https://blog.wubw.fun/2024/01/ai-based-sequence-diagram-generating.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
