@@ -3,10 +3,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [使用chatgpt-on-wechat自动回复祝福微信](https://blog.wubw.fun/2024/02/wechat-auto-reply-with-gpt.html)
 - [一次目录权限导致的ssh无法连接问题](https://blog.wubw.fun/2024/02/directory-perm-ssh-problem.html)
 - [开源贡献：为metallb实现layer2模式下状态展示功能](https://blog.wubw.fun/2024/02/metallb-layer2-status-implement.html)
 - [使用SadTalker制作和语音匹配的说话视频](https://blog.wubw.fun/2024/01/sadTalker.html)
-- [基于traefik的TCP-SNI路由和自动SSL证书](https://blog.wubw.fun/2024/01/traefik-sni-route-auto-ssl.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
