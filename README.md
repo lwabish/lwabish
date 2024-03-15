@@ -3,10 +3,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [kubernetes源码分析：大页内存数据来源与更新机制](https://blog.wubw.fun/2024/03/kubernetes-hugepage-data-source-and-update-mechanism.html)
 - [k8s-pvc延迟绑定模式&lpar;waitforfirstconsumer&rpar;的一个小坑](https://blog.wubw.fun/2024/03/kubernetes-waitforfirstconsumer-attention.html)
 - [使用chatgpt-on-wechat自动回复祝福微信](https://blog.wubw.fun/2024/02/wechat-auto-reply-with-gpt.html)
 - [一次目录权限导致的ssh无法连接问题](https://blog.wubw.fun/2024/02/directory-perm-ssh-problem.html)
-- [开源贡献：为metallb实现layer2模式下状态展示功能](https://blog.wubw.fun/2024/02/metallb-layer2-status-implement.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
